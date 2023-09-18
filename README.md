@@ -1,3 +1,4 @@
+![logo](https://github.com/harsh4677/harsh4677/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Salve</h1>
 <h3 align="center">I'm an enthusiastic Robotic Software Developer .</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"
